@@ -6,7 +6,7 @@ const PLAYER_SIZE: (f32, f32) = (0.025, 0.025);
 #[derive(Component)]
 pub struct Player;
 
-pub struct PlayerPlugin;
+pub struct PlayerPlugin; 
 
 impl Plugin for PlayerPlugin {
     fn build(&self, app: &mut App) {
