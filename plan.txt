@@ -3,4 +3,5 @@
 3. create tilemap
 4. fit tilemap to size of screen
 5. implement fullscreen only
-6. boundary tilemap
+6. use sprite sheet and generate texture atlas
+7. animate movement
